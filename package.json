@@ -1,0 +1,24 @@
+{
+  "name": "rn-datepicker",
+  "version": "1.0.0",
+  "description": "React Native datepicker组件，数字年月日选项（IOS Android 通用）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qfight/rn-datepicker.git"
+  },
+  "keywords": [
+    "react-native",
+    "datepicker",
+    "number"
+  ],
+  "author": "VidaPu, jiamei.yao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qfight/rn-datepicker/issues"
+  },
+  "homepage": "https://github.com/qfight/rn-datepicker#readme"
+}
