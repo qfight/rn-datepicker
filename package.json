@@ -17,6 +17,9 @@
   ],
   "author": "VidaPu, jiamei.yao",
   "license": "MIT",
+  "dependencies": {
+    "qunar-react-native": "git+ssh://git@gitlab.corp.qunar.com:yrn/qrn_js.git#v2.2.0-rc.1.1"
+  },
   "bugs": {
     "url": "https://github.com/qfight/rn-datepicker/issues"
   },
