@@ -37,7 +37,7 @@ export default ({}) => {
 ```
 
 
-<img src="https://github.com/qfight/Pucker/blob/master/images/down.png" height="160" >
+<img src="https://github.com/qfight/rn-datepicker/blob/master/images/datepicker.png" height="160" >
 
 
 
