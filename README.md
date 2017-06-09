@@ -1,6 +1,9 @@
 # rn-datepicker
 React Native datepicker组件，数字年月日选项（IOS Android 通用）
 
+
+<img src="https://github.com/qfight/rn-datepicker/blob/master/images/datepicker.jpg" height="160" >
+
 # 安装
 ```
 npm install rn-datepicker --save
@@ -35,9 +38,6 @@ export default ({}) => {
 }
 
 ```
-
-
-<img src="https://github.com/qfight/rn-datepicker/blob/master/images/datepicker.jpg" height="160" >
 
 
 
