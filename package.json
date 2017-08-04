@@ -1,8 +1,8 @@
 {
   "name": "rn-datepicker",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "React Native datepicker组件，数字年月日选项（IOS Android 通用）",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
